@@ -5,7 +5,7 @@
 | Sarah Jasim  | 30252812  |
 | Christopher Roberts  | 30097152  |
 | Saba Shabnam  | 30250712  |
-| Content Cell  | Content Cell  |
+| Kamsy Nnodu  | 30259867  |
  
 This assignment is about creating a student gradebook management system using python libraries and to understand and implement Git for collaboration.
 The first part of the assignment is about printing, formatting, and indexing data structures like strings and tuples. In part two, we imported the pandas library and loaded our files. Then we merged English and math grades, calculated GPA, and dropped the duplicated columns (first name and last name). Using the .describe() function we calculated the mean, standard deviation minimum, maximum values, and others. After importing Numpy, we sorted the data based on GPA descendingly. Function .iloc is used for finding the top student since the data frame was already sorted by GPA in a Descending manner. So, the first index indicates the top student. Next, we identified the students have math grades over 90 and found four students have math grades over 90.
